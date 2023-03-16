@@ -1,5 +1,5 @@
 # WikiRunner
-Quick wikipedia speedrunner bot (using breadth-first search)
+Quick wikipedia speedrunner bot
 
 Usage: python wikirunner.py SourcePageName DestinationPageName bfs/dfs LogPages
 
