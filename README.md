@@ -1,5 +1,5 @@
 # WikiRunner
-Quick wikipedia speedrunner bot
+Quick wikipedia speedrunner bot. Requires [beautiful soup](https://beautiful-soup-4.readthedocs.io/en/latest/#installing-beautiful-soup) and [requests](https://docs.python-requests.org/en/latest/user/install/).
 
 Usage: python wikirunner.py SourcePageName DestinationPageName bfs/dfs LogPages
 
